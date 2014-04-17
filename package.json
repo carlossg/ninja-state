@@ -1,0 +1,24 @@
+{
+  "name": "ninja-state",
+  "version": "1.0.0",
+  "description": "NinjaBlocks State Driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carlossg/ninja-state.git"
+  },
+  "keywords": [
+    "ninjablocks",
+    "state"
+  ],
+  "author": "Carlos Sanchez",
+  "license": "ASL",
+  "readmeFilename": "README.md",
+  "dependencies": {
+  },
+  "engines": {
+  }
+}
